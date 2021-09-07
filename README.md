@@ -1,0 +1,3 @@
+- 👋 who: @dcranston
+- 👀 what: python; cybersecurity; detection engineering
+- 📫 how: doug@dcranston.ca
